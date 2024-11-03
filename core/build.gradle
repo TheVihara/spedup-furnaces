@@ -1,0 +1,4 @@
+dependencies {
+    api project(":api")
+    compileOnly group: 'me.vihara.core', name: 'gui', version: '1.0-SNAPSHOT'
+}

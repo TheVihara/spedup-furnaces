@@ -1,0 +1,4 @@
+rootProject.name = 'spedup-furnaces'
+include 'core'
+include 'api'
+
